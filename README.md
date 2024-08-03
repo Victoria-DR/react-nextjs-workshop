@@ -8,7 +8,7 @@ Dive into the world of full-stack development in this hour-long workshop and lea
 
 # Requirements
 
-* [Node.js v18+](https://nodejs.org/en)
+* [Node.js v18.17+](https://nodejs.org/en)
 
 # Learning Outcomes
 
