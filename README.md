@@ -1,4 +1,4 @@
-# React &amp; Next.js: Building Modern Full-Stack Web Apps
+# Intro to React &amp; Next.js: Building Modern Full-Stack Web Apps
 
 Workshop presented by Victoria Da Rosa.
 
